@@ -42,7 +42,9 @@ This is a simple **Tic-Tac-Toe** game built using Python's **Tkinter** library. 
 
 ## 📸 Screenshots
 Add game screenshots here:
+
 ![Image](https://github.com/user-attachments/assets/692e9dfe-775e-4307-9688-fc2d530b1aca)
+
 ![Image](https://github.com/user-attachments/assets/88a8472e-d9b3-47f2-ac51-4c57b14042ba)
 
 ## 📜 Technologies Used
