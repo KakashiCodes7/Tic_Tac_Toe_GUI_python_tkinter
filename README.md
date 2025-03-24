@@ -40,8 +40,7 @@ This is a simple **Tic-Tac-Toe** game built using Python's **Tkinter** library. 
 - **Font**: Algerian (for a stylish game feel)
 - **Winning Message**: Popup window with game result
 
-## 📸 Screenshots
-Add game screenshots here:
+## 📸 Screenshots:
 
 ![Image](https://github.com/user-attachments/assets/692e9dfe-775e-4307-9688-fc2d530b1aca)
 
